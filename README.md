@@ -11,9 +11,11 @@ I build AI products end to end: **problem → PRD → working, tested software**
 - Ship working prototypes in days, not months
 
 **Projects**
-- 🛡️ [Seller Shield](https://github.com/Yellow-sparkle/seller-shield): AI dispute assistant for small PayPal sellers (PayPal AI Hackathon)
+- 🛡️ [Seller Shield](https://github.com/Yellow-sparkle/seller-shield): AI dispute assistant for small PayPal sellers (PayPal AI Hackathon). Built solo in ~1 week, 21/21 golden test cases passed
 - 🚧 Next project in progress…
 
 **Tools:** Claude · Next.js · TypeScript · REST APIs · SQL
+
+📫 Open to AI product roles in tech and FinTech
 
 🔗 [LinkedIn](https://www.linkedin.com/in/katesmith-ai) · [Devpost](https://devpost.com/katezhukova)
