@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm Kate
 
-<!--
-**Yellow-sparkle/Yellow-sparkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product Manager / Business Analyst in Zurich 🇨🇭 with 15+ years in FinTech, fraud and risk at UBS, J.P. Morgan and Credit Suisse.
 
-Here are some ideas to get you started:
+I build AI products end to end: **problem → PRD → working, tested software**, with an evals-first approach.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**How I build**
+- Define the problem, write the PRD and set the business rules
+- Design LLM evaluations: golden test sets, judge models and grounding checks
+- Keep humans in the loop for high-stakes actions
+- Ship working prototypes in days, not months
+
+**Projects**
+- 🛡️ [Seller Shield](https://github.com/Yellow-sparkle/seller-shield): AI dispute assistant for small PayPal sellers (PayPal AI Hackathon)
+- 🚧 Next project in progress…
+
+**Tools:** Claude · Next.js · TypeScript · REST APIs · SQL
+
+🔗 [LinkedIn](https://www.linkedin.com/in/katesmith-ai) · [Devpost](https://devpost.com/katezhukova)
