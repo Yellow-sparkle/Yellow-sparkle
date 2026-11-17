@@ -12,9 +12,9 @@ I build AI products end to end: **problem → PRD → working, tested software**
 
 **Projects**
 - 🛡️ [Seller Shield](https://github.com/Yellow-sparkle/seller-shield): AI dispute assistant for small PayPal sellers (PayPal AI Hackathon). Built solo in ~1 week, 21/21 golden test cases passed
-- 🚧 Next project in progress…
+- 🔎 [Job Ad Checker](https://github.com/Yellow-sparkle/job-ad-checker) · [live demo](https://yellow-sparkle.github.io/job-ad-checker/): paste a job ad or recruiter message, get a scam and ghost-job verdict with every warning quoted from the ad. Rules set the verdict, the LLM can only add quoted evidence. Worst of 3 runs: 0 false alarms on 56 real normal ads, 65/65 golden test cases, 8/10 scams caught on an unseen batch (both misses fixed)
 
-**Tools:** Claude · Next.js · TypeScript · REST APIs · SQL
+**Tools:** Claude · Python · Next.js · TypeScript · REST APIs · SQL
 
 📫 Open to AI product roles in tech and FinTech
 
