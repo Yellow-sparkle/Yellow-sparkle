@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Kate
 
-Product Manager / Business Analyst in Zurich 🇨🇭 with 15+ years in FinTech, fraud and risk at UBS, J.P. Morgan and Credit Suisse.
+Product Manager in Zurich 🇨🇭 with 15+ years in FinTech, fraud and risk at UBS, J.P. Morgan and Credit Suisse.
 
 I build AI products end to end: **problem → PRD → working, tested software**, with an evals-first approach.
 
